@@ -17,7 +17,7 @@ from config import HNDLR, bot, call_py
 from Userbot.helpers.queues import QUEUE, add_to_queue, get_queue
 
 AMBILFOTO = [
-    "https://telegra.ph/file/753286ddee65024844791.jpg",
+    "https://telegra.ph/file/c4698c969216c0668cb1d.jpg",
 ]
 
 IMAGE_THUMBNAIL = random.choice(AMBILFOTO)
