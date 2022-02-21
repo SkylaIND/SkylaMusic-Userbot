@@ -31,12 +31,12 @@
 ## 🛠 Commands:
 | Command | Description |
 | ------ | ------ |
-| `+play` | play music from youtube |
-| `+vplay` | play video from youtube |
-| `+vplay` | play video live streaming video |
-| `+pause` | pause the streaming (admin only) |
-| `+resume` | resume the streaming (admin only) |
-| `+skip` | switch to next stream (admin only) |
-| `+playlist` | show you all the current | stream list |
-| `+song` | download music from youtube |
-| `+stop` | end the streaming (admin only) |
+| `!play` | play music from youtube |
+| `!vplay` | play video from youtube |
+| `!vplay` | play video live streaming video |
+| `!pause` | pause the streaming (admin only) |
+| `!resume` | resume the streaming (admin only) |
+| `!skip` | switch to next stream (admin only) |
+| `!playlist` | show you all the current | stream list |
+| `!song` | download music from youtube |
+| `!stop` | end the streaming (admin only) |
