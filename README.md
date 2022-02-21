@@ -24,7 +24,7 @@
 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/SkylaIND/SkylaMusic-Userbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-Green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a>
 
-<p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=U2t5bGFJTkQvU2t5bGEtVXNlcmJvdCBTa3lsYS1Vc2VyYm90"><img src="https://img.shields.io/badge/Deploy%20Via%20Telegram-blue?style=for-the-badge&logo=telegram" width="250""/</a>  
+<p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=U2t5bGFJTkQvU2t5bGFNdXNpYy1Vc2VyYm90IG1haW4"><img src="https://img.shields.io/badge/Deploy%20Via%20Telegram-blue?style=for-the-badge&logo=telegram" width="250""/</a>  
 </p>
 
 
