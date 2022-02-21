@@ -1,13 +1,13 @@
 {
-    "name": " Zaen Music And Video Player",
+    "name": " Skyla Music And Video Player",
     "description": "UserBot Untuk Memutar Lagu Dan Video Di Obrolan Suara Telegram.",
-    "logo": "https://telegra.ph/file/4219866eba63bcac65527.jpg",
+    "logo": "https://telegra.ph/file/5af32594e504236410892.jpg",
     "keywords": [
         "Telegram",
         "MusicPlayer",
         "VideoPlayer"
     ],
-    "repository": "https://github.com/Zaen-ubot/ZaenMusic",
+    "repository": "https://github.com/SkylaIND/SkylaMusic-Userbot",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session",
