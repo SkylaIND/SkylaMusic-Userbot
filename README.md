@@ -3,13 +3,13 @@
 </p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=Blue" /></a>
-    <a href="https://github.com/Zaen-ubot/SkylaMusic-Userbot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-Blue.svg?style=flat-square" /></a>
-    <a href="https://app.codacy.com/gh/Zaen-ubot/SkylaMusic-Userbot/dashboard"> <img src="https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=Blue&logo=codacy&style=flat-square" alt="Codacy" /></a><br>
-    <a href="https://github.com/Zaen-ubot/SkylaMusic-Userbot"> <img src="https://img.shields.io/github/repo-size/Zaen-ubot/SkylaMusic-Userbot?color=Blue&logo=github&logoColor=Blue&style=flat-square" /></a>
-    <a href="https://github.com/Zaen-ubot/SkylaMusic-Userbot/commits/main"> <img src="https://img.shields.io/github/last-commit/Zaen-ubot/SkylaMusic-Userbot?color=Blue&logo=github&logoColor=Blue&style=flat-square" /></a>
-    <a href="https://github.com/Zaen-ubot/SkylaMusic-Usetbot/issues"> <img src="https://img.shields.io/github/issues/Zaen-ubot/SkylaMusic-Userbot?color=Blue&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/Zaen-ubot/SkylaMusic-Userbot/network/members"> <img src="https://img.shields.io/github/forks/Zaen-ubot/SkylaMusic-Userbot?color=Blue&logo=github&logoColor=Blue&style=flat-square" /></a>  
-    <a href="https://github.com/Zaen-ubot/SkylaMusic-Userbot/network/members"> <img src="https://img.shields.io/github/stars/Zaen-ubot/SkylaMusic-Userbot?color=Blue&logo=github&logoColor=Blue&style=flat-square" /></a>  
+    <a href="https://github.com/SkylaIND/SkylaMusic-Userbot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-Blue.svg?style=flat-square" /></a>
+    <a href="https://app.codacy.com/gh/SkylaIND/SkylaMusic-Userbot/dashboard"> <img src="https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=Blue&logo=codacy&style=flat-square" alt="Codacy" /></a><br>
+    <a href="https://github.com/SkylaIND/SkylaMusic-Userbot"> <img src="https://img.shields.io/github/repo-size/SkylaIND/SkylaMusic-Userbot?color=Blue&logo=github&logoColor=Blue&style=flat-square" /></a>
+    <a href="https://github.com/SkylaIND/SkylaMusic-Userbot/commits/main"> <img src="https://img.shields.io/github/last-commit/SkylaIND/SkylaMusic-Userbot?color=Blue&logo=github&logoColor=Blue&style=flat-square" /></a>
+    <a href="https://github.com/SkylaIND/SkylaMusic-Usetbot/issues"> <img src="https://img.shields.io/github/issues/SkylaIND/SkylaMusic-Userbot?color=Blue&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/SkylaIND/SkylaMusic-Userbot/network/members"> <img src="https://img.shields.io/github/forks/SkylaIND/SkylaMusic-Userbot?color=Blue&logo=github&logoColor=Blue&style=flat-square" /></a>  
+    <a href="https://github.com/SkylaIND/SkylaMusic-Userbot/network/members"> <img src="https://img.shields.io/github/stars/SkylaIND/SkylaMusic-Userbot?color=Blue&logo=github&logoColor=Blue&style=flat-square" /></a>  
 </p>
 
 
