@@ -22,7 +22,10 @@
     ✘𝗠𝘂𝘀𝗶𝗰 𝗨𝘀𝗲𝗿𝗯𝗼𝘁 𝗧𝗼 𝗗𝗲𝗽𝗹𝗼𝘆 𝗢𝗻 𝗛𝗲𝗿𝗼𝗸𝘂✘
 <img src="https://telegra.ph/file/59a1e5e2209a19c2b2488.jpg">
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/SkylaIND/SkylaMusic-Userbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-Green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/SkylaIND/SkylaMusic-Userbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-Green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a>
+
+<p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=U2t5bGFJTkQvU2t5bGEtVXNlcmJvdCBTa3lsYS1Vc2VyYm90"><img src="https://img.shields.io/badge/Deploy%20Via%20Telegram-blue?style=for-the-badge&logo=telegram" width="250""/</a>  
+</p>
 
 
 ## 🛠 Commands:
