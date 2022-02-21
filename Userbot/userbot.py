@@ -71,11 +71,11 @@ async def help(client, m: Message):
 
 ⚡ PERINTAH UNTUK SEMUA ORANG
 • {HNDLR}play [judul lagu | link youtube | balas file audio] - untuk memutar lagu
-• {HNDLR}videoplay [judul video | link youtube | balas file video] - untuk memutar video
+• {HNDLR}vplay [judul video | link youtube | balas file video] - untuk memutar video
 • {HNDLR}playlist untuk melihat daftar putar
 • {HNDLR}ping - untuk cek status
 • {HNDLR}id - untuk melihat id pengguna
-• {HNDLR}video - judul video | link yt untuk mencari video
+• {HNDLR}vplay - judul video | link yt untuk mencari video
 • {HNDLR}song - judul lagu | link yt untuk mencari lagu
 • {HNDLR}help - untuk melihat daftar perintah
 • {HNDLR}join- untuk join | ke grup 
