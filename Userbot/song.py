@@ -62,7 +62,7 @@ async def song(client, message: Message):
         return
     c_time = time.time()
     capy = f"""
-**❤️‍🔥 Nama Lagu:** [{thum}]({mo})
+**🎵 Nama Lagu:** [{thum}]({mo})
 **🗃️ Permintaan Dari:** {message.from_user.mention}
 """
     file_stark = f"{ytdl_data['id']}.mp3"
